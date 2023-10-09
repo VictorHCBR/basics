@@ -11,7 +11,7 @@ char question = char.Parse(Console.ReadLine());
 
 Account account;
 
-if (question == 's')
+if (ToLower(question) == 's')
 {
     Console.Write("Informe o valor do depósito inicial: ");
     int initialDeposit = int.Parse(Console.ReadLine());
@@ -43,3 +43,8 @@ account.Withdraw(withdrawAmount);
 
 Console.WriteLine("Dados da conta atualizados: ");
 Console.WriteLine(account.Description());
+
+static char ToLower(char c)
+{
+    return char.Parse(c.ToString().ToLower());
+}

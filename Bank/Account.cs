@@ -1,4 +1,6 @@
-﻿namespace Bank;
+﻿using System.Globalization;
+
+namespace Bank;
 
 public class Account
 {
@@ -48,6 +50,6 @@ public class Account
     {
         return $"Conta: {Id}\n" +
             $"Titular: {Owner}\n" +
-            $"Saldo: R$ {Balance}.\n";
+            $"Saldo: R$ {Balance.ToString("F2", CultureInfo.InvariantCulture)}.\n";
     }
 }

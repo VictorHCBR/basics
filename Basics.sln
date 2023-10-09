@@ -13,9 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Attributes", "Attributes\At
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FakeERP", "FakeERP\FakeERP.csproj", "{F0855EF0-B8C0-42CF-898E-7A051ABE4EB1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetSet", "GetSet\GetSet.csproj", "{C36A18C4-0395-4CEE-BBAA-DEEAEA825ABF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GetSet", "GetSet\GetSet.csproj", "{C36A18C4-0395-4CEE-BBAA-DEEAEA825ABF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bank", "Bank\Bank.csproj", "{C79E868B-60E7-41E3-A485-92B979325196}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bank", "Bank\Bank.csproj", "{C79E868B-60E7-41E3-A485-92B979325196}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{EA8A891E-464A-4C66-9D23-BFBD33B4541F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{C79E868B-60E7-41E3-A485-92B979325196}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C79E868B-60E7-41E3-A485-92B979325196}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C79E868B-60E7-41E3-A485-92B979325196}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA8A891E-464A-4C66-9D23-BFBD33B4541F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA8A891E-464A-4C66-9D23-BFBD33B4541F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA8A891E-464A-4C66-9D23-BFBD33B4541F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA8A891E-464A-4C66-9D23-BFBD33B4541F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

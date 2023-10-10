@@ -17,7 +17,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GetSet", "GetSet\GetSet.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bank", "Bank\Bank.csproj", "{C79E868B-60E7-41E3-A485-92B979325196}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{EA8A891E-464A-4C66-9D23-BFBD33B4541F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays", "Arrays\Arrays.csproj", "{EA8A891E-464A-4C66-9D23-BFBD33B4541F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListConcepts", "ListConcepts\ListConcepts.csproj", "{855EA0CC-8B84-4B55-92A1-43EF5A608877}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrices", "Matrices\Matrices.csproj", "{3CD24210-8861-461D-A98F-A832208566C1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +61,14 @@ Global
 		{EA8A891E-464A-4C66-9D23-BFBD33B4541F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA8A891E-464A-4C66-9D23-BFBD33B4541F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA8A891E-464A-4C66-9D23-BFBD33B4541F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{855EA0CC-8B84-4B55-92A1-43EF5A608877}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{855EA0CC-8B84-4B55-92A1-43EF5A608877}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{855EA0CC-8B84-4B55-92A1-43EF5A608877}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{855EA0CC-8B84-4B55-92A1-43EF5A608877}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CD24210-8861-461D-A98F-A832208566C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CD24210-8861-461D-A98F-A832208566C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CD24210-8861-461D-A98F-A832208566C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CD24210-8861-461D-A98F-A832208566C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

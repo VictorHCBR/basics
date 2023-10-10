@@ -11,17 +11,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Scholar", "Scholar\Scholar.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Attributes", "Attributes\Attributes.csproj", "{820F7E83-7B36-4EF6-8D34-2C19B664CF3F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FakeERP", "FakeERP\FakeERP.csproj", "{F0855EF0-B8C0-42CF-898E-7A051ABE4EB1}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GetSet", "GetSet\GetSet.csproj", "{C36A18C4-0395-4CEE-BBAA-DEEAEA825ABF}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bank", "Bank\Bank.csproj", "{C79E868B-60E7-41E3-A485-92B979325196}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays", "Arrays\Arrays.csproj", "{EA8A891E-464A-4C66-9D23-BFBD33B4541F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListConcepts", "ListConcepts\ListConcepts.csproj", "{855EA0CC-8B84-4B55-92A1-43EF5A608877}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListConcepts", "ListConcepts\ListConcepts.csproj", "{855EA0CC-8B84-4B55-92A1-43EF5A608877}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrices", "Matrices\Matrices.csproj", "{3CD24210-8861-461D-A98F-A832208566C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matrices", "Matrices\Matrices.csproj", "{3CD24210-8861-461D-A98F-A832208566C1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,10 +43,6 @@ Global
 		{820F7E83-7B36-4EF6-8D34-2C19B664CF3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{820F7E83-7B36-4EF6-8D34-2C19B664CF3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{820F7E83-7B36-4EF6-8D34-2C19B664CF3F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F0855EF0-B8C0-42CF-898E-7A051ABE4EB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F0855EF0-B8C0-42CF-898E-7A051ABE4EB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F0855EF0-B8C0-42CF-898E-7A051ABE4EB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F0855EF0-B8C0-42CF-898E-7A051ABE4EB1}.Release|Any CPU.Build.0 = Release|Any CPU
 		{C36A18C4-0395-4CEE-BBAA-DEEAEA825ABF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C36A18C4-0395-4CEE-BBAA-DEEAEA825ABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C36A18C4-0395-4CEE-BBAA-DEEAEA825ABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
